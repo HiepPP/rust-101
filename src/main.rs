@@ -16,6 +16,13 @@ mod unit_struct;
 mod tuple_struct;
 mod structs;
 mod enums;
+mod struct_method;
+mod enum_methods;
+mod arrays;
+mod tuples;
+mod vec;
+mod hashmaps;
+mod slices;
 
 fn main() {
     println!("Hello, world!");
