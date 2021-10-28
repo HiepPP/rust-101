@@ -23,6 +23,8 @@ mod tuples;
 mod vec;
 mod hashmaps;
 mod slices;
+mod word_counter;
+mod mod_within;
 
 fn main() {
     println!("Hello, world!");

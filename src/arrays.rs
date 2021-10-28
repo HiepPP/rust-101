@@ -5,3 +5,5 @@ fn main() {
     println!("Number: {}", numbers[5]);
     println!("Float: {}", floats[2]);
 }
+
+fn makeArrayFromNumber
