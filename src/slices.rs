@@ -6,7 +6,7 @@ fn main() {
     }
 
     {
-        let first_two: &mut [u8] = &mut number[0..2];
+        let first_two: &mut [u8] = &mut numbers[0..2];
         first_two[0] = 100;
         first_two[1] = 99;
     }
